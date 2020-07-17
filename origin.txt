@@ -1,0 +1,536 @@
+Uri: https://demo-4.mysitesweb.su/
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\index.htm
+Content Type: text/html
+
+Uri: https://demo-4.mysitesweb.su/assets/images/favicon.png
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://demo-4.mysitesweb.su/assets/css/animate.css
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://demo-4.mysitesweb.su/assets/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://demo-4.mysitesweb.su/assets/css/all.min.css
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\css\all.min.css
+Content Type: text/css
+
+Uri: https://demo-4.mysitesweb.su/assets/css/line-awesome.min.css
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\css\line-awesome.min.css
+Content Type: text/css
+
+Uri: https://demo-4.mysitesweb.su/assets/css/slick.css
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://demo-4.mysitesweb.su/assets/css/slick-theme.css
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\css\slick-theme.css
+Content Type: text/css
+
+Uri: https://demo-4.mysitesweb.su/assets/css/color.css
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\css\color.css
+Content Type: text/css
+
+Uri: https://demo-4.mysitesweb.su/assets/css/style.css
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\css\style.css
+Content Type: text/css
+
+Uri: https://demo-4.mysitesweb.su/assets/css/responsive.css
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://demo-4.mysitesweb.su/index.html
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\index.html
+Content Type: text/html
+
+Uri: https://demo-4.mysitesweb.su/about.html
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\about.html
+Content Type: text/html
+
+Uri: https://demo-4.mysitesweb.su/services.html
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\services.html
+Content Type: text/html
+
+Uri: https://demo-4.mysitesweb.su/portfolio.html
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\portfolio.html
+Content Type: text/html
+
+Uri: https://demo-4.mysitesweb.su/catalog.html
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\catalog.html
+Content Type: text/html
+
+Uri: https://demo-4.mysitesweb.su/catalog-product.html
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\catalog-product.html
+Content Type: text/html
+
+Uri: https://demo-4.mysitesweb.su/shop.html
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\shop.html
+Content Type: text/html
+
+Uri: https://demo-4.mysitesweb.su/blog.html
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\blog.html
+Content Type: text/html
+
+Uri: https://demo-4.mysitesweb.su/blog-single.html
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\blog-single.html
+Content Type: text/html
+
+Uri: https://demo-4.mysitesweb.su/contact.html
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\contact.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=pNxqh-JCMpw
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\watch.html
+Content Type: text/html
+
+Uri: https://demo-4.mysitesweb.su/portfolio-details.html
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\portfolio-details.html
+Content Type: text/html
+
+Uri: https://demo-4.mysitesweb.su/assets/images/logo.png
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://demo-4.mysitesweb.su/assets/images/icon3.png
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\icon3.png
+Content Type: image/png
+
+Uri: https://demo-4.mysitesweb.su/assets/images/icon4.png
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\icon4.png
+Content Type: image/png
+
+Uri: https://demo-4.mysitesweb.su/assets/images/icon5.png
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\icon5.png
+Content Type: image/png
+
+Uri: https://demo-4.mysitesweb.su/assets/images/icon1.png
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\icon1.png
+Content Type: image/png
+
+Uri: https://demo-4.mysitesweb.su/assets/images/icon2.png
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\icon2.png
+Content Type: image/png
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/banner1.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\banner1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/banner2.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\banner2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/banner3.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\banner3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/abt1.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\abt1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/abt2.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\abt2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/team1.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\team1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/team2.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\team2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/team3.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\team3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/team4.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\team4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/team5.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\team5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/team6.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\team6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/project1.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\project1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/project2.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\project2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/project3.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\project3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/testi1.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\testi1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/testi2.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\testi2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/testi3.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\testi3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/testi4.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\testi4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/testi5.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\testi5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/img5.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\img5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/blog1.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\blog1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/blog2.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\blog2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/blog3.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\blog3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/ft-logo.png
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\ft-logo.png
+Content Type: image/png
+
+Uri: https://demo-4.mysitesweb.su/assets/js/jquery.min.js
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://demo-4.mysitesweb.su/assets/js/popper.js
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\js\popper.js
+Content Type: application/javascript
+
+Uri: https://demo-4.mysitesweb.su/assets/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://demo-4.mysitesweb.su/assets/js/plugin/slick.min.js
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\js\plugin\slick.min.js
+Content Type: application/javascript
+
+Uri: https://demo-4.mysitesweb.su/assets/js/plugin/html5lightbox.js
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\js\plugin\html5lightbox.js
+Content Type: application/javascript
+
+Uri: https://demo-4.mysitesweb.su/assets/js/placeholdem.min.js
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\js\placeholdem.min.js
+Content Type: application/javascript
+
+Uri: https://demo-4.mysitesweb.su/assets/js/wow.min.js
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://demo-4.mysitesweb.su/assets/js/script.js
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\js\script.js
+Content Type: application/javascript
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/fa-brands-400.eot
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/fa-brands-400.eot?
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/fa-brands-400.woff2
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/fa-brands-400.woff
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/fa-brands-400.ttf
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\fa-brands-400.bin
+Content Type: application/octet-stream
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/fa-brands-400.svg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/fa-regular-400.eot
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/fa-regular-400.eot?
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/fa-regular-400.woff2
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/fa-regular-400.woff
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/fa-regular-400.ttf
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\fa-regular-400.bin
+Content Type: application/octet-stream
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/fa-regular-400.svg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/fa-solid-900.eot
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/fa-solid-900.eot?
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/fa-solid-900.woff2
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/fa-solid-900.woff
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/fa-solid-900.ttf
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\fa-solid-900.bin
+Content Type: application/octet-stream
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/fa-solid-900.svg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/la-brands-400.woff2
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\la-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/la-brands-400.woff
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\la-brands-400.woff
+Content Type: font/woff
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/la-brands-400.ttf
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\la-brands-400.bin
+Content Type: application/octet-stream
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/la-brands-400.svg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\la-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/la-regular-400.eot
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\la-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/la-regular-400.eot?
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\la-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/la-regular-400.woff2
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\la-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/la-regular-400.woff
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\la-regular-400.woff
+Content Type: font/woff
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/la-regular-400.ttf
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\la-regular-400.bin
+Content Type: application/octet-stream
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/la-regular-400.svg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\la-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/la-solid-900.eot
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\la-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/la-solid-900.eot?
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\la-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/la-solid-900.woff2
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\la-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/la-solid-900.woff
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\la-solid-900.woff
+Content Type: font/woff
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/la-solid-900.ttf
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\la-solid-900.bin
+Content Type: application/octet-stream
+
+Uri: https://demo-4.mysitesweb.su/assets/webfonts/la-solid-900.svg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\webfonts\la-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\css2.css
+Content Type: text/css
+
+Uri: https://demo-4.mysitesweb.su/assets/images/bg1.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\bg1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/pager-bg.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\pager-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/main-banner-bg.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\main-banner-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/gradient-bg.png
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\gradient-bg.png
+Content Type: image/png
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/error-img.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\error-img.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/about1.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\about1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/about2.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\about2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/ico1.png
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\ico1.png
+Content Type: image/png
+
+Uri: https://demo-4.mysitesweb.su/assets/images/ico2.png
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\ico2.png
+Content Type: image/png
+
+Uri: https://demo-4.mysitesweb.su/assets/images/ico3.png
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\ico3.png
+Content Type: image/png
+
+Uri: https://demo-4.mysitesweb.su/assets/js/plugin/counter.js
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\js\plugin\counter.js
+Content Type: application/javascript
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/about3.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\about3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/svs-img1.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\svs-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/svs-img2.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\svs-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/svs-img3.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\svs-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/cl-img1.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\cl-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/js/plugin/isotope.js
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\js\plugin\isotope.js
+Content Type: application/javascript
+
+Uri: https://demo-4.mysitesweb.su/assets/css/jquery-ui.css
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\css\jquery-ui.css
+Content Type: text/css
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/pager3.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\pager3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/shop1.png
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\shop1.png
+Content Type: image/png
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/shop2.png
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\shop2.png
+Content Type: image/png
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/shop3.png
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\shop3.png
+Content Type: image/png
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/shop4.png
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\shop4.png
+Content Type: image/png
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/shop5.png
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\shop5.png
+Content Type: image/png
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/shop6.png
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\shop6.png
+Content Type: image/png
+
+Uri: https://demo-4.mysitesweb.su/assets/js/jquery-ui.js
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\js\jquery-ui.js
+Content Type: application/javascript
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/catalog1.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\catalog1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/catalog2.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\catalog2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/catalog3.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\catalog3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/blog-single.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\blog-single.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/blog-single2.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\blog-single2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo-4.mysitesweb.su/assets/images/ci1.png
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\ci1.png
+Content Type: image/png
+
+Uri: https://demo-4.mysitesweb.su/assets/images/ci2.png
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\ci2.png
+Content Type: image/png
+
+Uri: https://demo-4.mysitesweb.su/assets/images/ci3.png
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\ci3.png
+Content Type: image/png
+
+Uri: https://demo-4.mysitesweb.su/assets/images/ci4.png
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\ci4.png
+Content Type: image/png
+
+Uri: https://demo-4.mysitesweb.su/assets/images/submit.png
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\submit.png
+Content Type: image/png
+
+Uri: https://demo-4.mysitesweb.su/assets/js/validate.js
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\js\validate.js
+Content Type: application/javascript
+
+Uri: https://demo-4.mysitesweb.su/assets/images/resources/azt-img1.jpg
+File Name: c:\Downloaded Web Sites\demo-4.mysitesweb.su\assets\images\resources\azt-img1.jpg
+Content Type: image/jpeg
+
